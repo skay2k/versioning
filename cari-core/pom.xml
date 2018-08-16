@@ -3,8 +3,8 @@
   <parent>
     <groupId>ch.abraxas</groupId>
     <artifactId>cari_parent</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.4-SNAPSHOT</version>
   </parent>
   <artifactId>cari-core</artifactId>
-  <version>1.2.2</version>
+  <version>1.2.3-SNAPSHOT</version>
 </project>
