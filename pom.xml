@@ -7,4 +7,9 @@
   <modules>
   	<module>cari-core</module>
   </modules>
+  
+  <scm>
+		<connection>scm:git:https://github.com/skay2k/versioning.git</connection>
+		<developerConnection>scm:git:https://github.com/skay2k/versioning.git</developerConnection>
+</scm>
 </project>
