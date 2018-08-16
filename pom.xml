@@ -16,6 +16,7 @@
 	</scm>
 	<distributionManagement>
 		<repository>
+			<id>nexus-site</id>
 			<url>file:///d/work</url>
 		</repository>
 	</distributionManagement>
