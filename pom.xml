@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ch.abraxas</groupId>
   <artifactId>cari_parent</artifactId>
-  <version>1.2.2</version>
+  <version>1.2.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
   	<module>cari-core</module>
@@ -11,6 +11,5 @@
   <scm>
 		<connection>scm:git:https://github.com/skay2k/versioning.git</connection>
 		<developerConnection>scm:git:https://github.com/skay2k/versioning.git</developerConnection>
-  <tag>cari_parent-1.2.2</tag>
-  </scm>
+</scm>
 </project>
