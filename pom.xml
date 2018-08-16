@@ -6,6 +6,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>cari-core</module>
+		<module>module</module>
 	</modules>
 
 	<scm>
