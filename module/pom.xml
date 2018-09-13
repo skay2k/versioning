@@ -3,7 +3,7 @@
   <parent>
     <groupId>ch.abraxas</groupId>
     <artifactId>cari_parent</artifactId>
-    <version>1.2.7-SNAPSHOT</version>
+    <version>1.2.7</version>
   </parent>
   <artifactId>module</artifactId>
   <packaging>pom</packaging>
