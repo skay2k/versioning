@@ -9,6 +9,13 @@
 		<module>module</module>
 	</modules>
 
+
+
+<properties>
+  <project.scm.id>my-scm-server</project.scm.id>
+</properties>
+
+
 	<scm>
 		<connection>scm:git:https://github.com/skay2k/versioning.git</connection>
 		<developerConnection>scm:git:https://github.com/skay2k/versioning.git</developerConnection>
