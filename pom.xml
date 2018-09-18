@@ -17,8 +17,8 @@
 
 
 	<scm>
-		<connection>scm:git:https://github.com/skay2k/versioning/.git</connection>
-		<developerConnection>scm:git:https://github.com/skay2k/versioning/.git</developerConnection>
+		<connection>scm:git:https://github.com/skay2k/versioning</connection>
+		<developerConnection>scm:git:https://github.com/skay2k/versioning</developerConnection>
 	  
   </scm>
 	<distributionManagement>
