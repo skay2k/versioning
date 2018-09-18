@@ -16,11 +16,12 @@
 </properties>
 
 
-	<scm>
+	<!--  scm>
 		<connection>scm:git:https://github.com/skay2k/versioning</connection>
 		<developerConnection>scm:git:https://github.com/skay2k/versioning</developerConnection>
 	  
-  </scm>
+  </scm -->
+  
 	<distributionManagement>
 		<repository>
 			<id>release</id>
