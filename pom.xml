@@ -20,6 +20,7 @@
 		<connection>scm:git:https://github.com/skay2k/versioning</connection>
 		<developerConnection>scm:git:https://github.com/skay2k/versioning</developerConnection>
 	  <url>scm:git:https://github.com/skay2k/versioning.git</url>
+    <tag>cap128</tag>
   </scm>
   
 	<distributionManagement>
